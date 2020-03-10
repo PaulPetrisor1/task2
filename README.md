@@ -1,1 +1,1 @@
-# task2
+Spring Boot program that allows the user to specify a department, pay type and education level, and then connects to a shared database and runs the query with those options. The program display the results of the query.
